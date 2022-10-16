@@ -1,3 +1,8 @@
+# Pomodoro Timer
+
+## This is a Pomodoro Timer which I made using ReactJS. I also used the FontAwesome package to help me with this project!
+## Follow the steps below to use this for yourself!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +73,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+From there you can play around with the code and the website! Enjoy :D
+
+#### By: Adithya Rajesh Pillai
