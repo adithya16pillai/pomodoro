@@ -1,7 +1,7 @@
 # Pomodoro Timer
 
-## This is a Pomodoro Timer which I made using ReactJS. I also used the FontAwesome package to help me with this project!
-## Follow the steps below to use this for yourself!
+# This is a Pomodoro Timer which I made using ReactJS. I also used the FontAwesome package to help me with this project
+# Enjoy :D
 
 # Getting Started with Create React App
 
